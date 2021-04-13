@@ -3,10 +3,10 @@ The project is a Movie Recommendation System based on the present emotions of a 
 Web Scrapping is used to get the top latest movies recommendations.
 
 ## How to run:
-1.Install BeautifulSoup and lxml
-2.Run main.py file in py3.
-3.Enter the emotion.
-4.Recommended Movie List is shown.
+1.Install BeautifulSoup and lxml.<br>
+2.Run main.py file in py3.<br>
+3.Enter the emotion.<br>
+4.Recommended Movie List is shown.<br>
 
 The scraper is written in Python and uses lxml for parsing the webpages. BeautifulSoup is used for pulling data out of HTML and XML files.
 
