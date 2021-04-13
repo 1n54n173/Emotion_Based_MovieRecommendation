@@ -10,5 +10,5 @@ Web Scrapping is used to get the top latest movies recommendations.
 
 The scraper is written in Python and uses lxml for parsing the webpages. BeautifulSoup is used for pulling data out of HTML and XML files.
 
-###Sample code output:
+##Sample code output:
 ![RecMovie](https://user-images.githubusercontent.com/56619771/114534378-924f3e80-9c6c-11eb-9bc9-d529910813a8.png)
